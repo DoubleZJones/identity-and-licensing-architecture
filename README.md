@@ -50,3 +50,18 @@ Implemented a governance model where user access to Microsoft 365 services is co
 
 **Impact:**  
 Reduced manual licensing work, improved auditability, and aligned access to organizational structure and lifecycle events.
+
+---
+
+## 3. Entra ID SSO Integration with Zoom
+**Summary:**  
+Configured single sign-on between Entra ID and Zoom to streamline authentication and reduce credential sprawl.
+
+**Key Actions:**  
+- Configured SAML-based SSO in Entra ID.  
+- Mapped user attributes and roles.  
+- Validated login behavior across user groups.  
+- Documented the integration for support teams.
+
+**Impact:**  
+Improved authentication consistency and reduced password-related support issues.
